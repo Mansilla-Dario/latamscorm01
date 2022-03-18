@@ -1,2 +1,2 @@
 # latamscorm01
-Prueba de scorm de latam
+https://mansilla-dario.github.io/latamscorm01/
